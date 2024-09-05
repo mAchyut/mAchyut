@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,tailwindcss,mongodb,html,css,scss,appwrite,figma,canva,expressjs,mern" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs,redux,tailwindcss,html,css,scss,appwrite,figma,git,canva" alt="Skills">
 </div>
 
 ### About Me
