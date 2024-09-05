@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <h1>Achyut</h1>
+  <p>Full-Stack Developer | Passionate about crafting innovative web applications</p>
+</div>
 
-<!--
-**mAchyut/mAchyut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,tailwindcss,mongodb,html,css,scss,appwrite,figma,canva,expressjs,mern" alt="Skills">
+</div>
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack developer specializing in the MERN stack. I have a strong foundation in javaScript and am passionate about building scalable, user-friendly web applications.
+
+### Skills
+
+* **Frontend Development:** ReactJS, JavaScript, HTML, CSS, SASS, Tailwind CSS
+* **Backend Development:** NodeJS, Express.js, MongoDB, Appwrite
+* **Full-Stack Framework:** MERN
+* **Design Tools:** Figma, Canva
+
+### Projects
+
+* **StoryFlicker:** A comprehensive platform for creating, editing, and publishing blog posts. Features authentication, password recovery, user profiles, commenting, and more.
+  * checkout more in repositories
+
+
+
+### Connect with Me
+* www.linkedin.com/in/suryanshuraj
+  
