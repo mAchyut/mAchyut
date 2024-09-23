@@ -20,7 +20,7 @@ I'm a full-stack developer specializing in the MERN stack. I have a strong found
 
 ### Projects
 
-* **StoryFlicker:** A comprehensive platform for creating, editing, and publishing blog posts. Features authentication, password recovery, user profiles, commenting, and more.
+* **Lieflog:** Share your thoughts, inspire others, and connect with a community—where every word blooms.
   * checkout more in repositories
 
 
