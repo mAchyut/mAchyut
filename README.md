@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm a full-stack developer specializing in the MERN stack. I have a strong foundation in javaScript and am passionate about building scalable, user-friendly web applications.
+Collaborative and innovative Software Developer. Strong expertise in the MERN stack and proficient in React.js, JavaScript, Tailwind, and Appwrite (BaaS)—delivering high-performance, innovative solutions with a keen eye for detail and user experience..
 
 ### Skills
 
@@ -21,7 +21,8 @@ I'm a full-stack developer specializing in the MERN stack. I have a strong found
 ### Projects
 
 * **Lieflog:** Share your thoughts, inspire others, and connect with a community—where every word blooms.
-  * checkout more in repositories
+* **StoryFlicker** Simpler version of Lieflog
+  * Checkout more in repositories
 
 
 
