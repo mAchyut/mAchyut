@@ -1,6 +1,6 @@
 <div align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(0, 204, 255, 0.7), rgba(153, 51, 255, 0.7)); border-radius: 10px; box-shadow: 0px 6px 25px rgba(0, 0, 0, 0.15); width: 90%; margin: 0 auto;">
   <h1 style="font-size: 3.5rem; font-weight: 700; color: white;">Achyut</h1>
-  <p style="font-size: 1.3rem; font-weight: 300; color: rgba(255, 255, 255, 0.9);">Full-Stack Developer | Based on web applications</p>
+  <p style="font-size: 1.3rem; font-weight: 300; color: rgba(255, 255, 255, 0.9);">Full-Stack Developer | Based on Web Applications</p>
 </div>
 
 <div align="center" style="margin-top: 30px;">
@@ -73,7 +73,7 @@ Collaborative and innovative Software Developer. Expertise in the MERN stack and
 
 
 
-### <span style="font-size: 1.8rem; font-weight: bold;">Connect with Me</span>
+### <span style="font-size: 1.8rem; font-weight: bold;">Connect With Me</span>
 
 
 <div align="center" style="margin-top: 30px; width: 85%; margin: 0 auto;">
