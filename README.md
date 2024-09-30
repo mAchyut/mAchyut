@@ -81,7 +81,7 @@ Collaborative and innovative Software Developer. Expertise in the MERN stack and
 ### <span style="font-size: 1.8rem; font-weight: bold;">Connect with Me</span>
 
 <div align="center" style="margin-top: 30px;">
-  <a href="https://www.linkedin.com/in/sur" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/suryanshuraj" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
