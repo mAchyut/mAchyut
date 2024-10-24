@@ -23,7 +23,7 @@ Collaborative and innovative Software Developer. Expertise in the MERN stack and
   <table style="width: 100%; border-collapse: collapse;">
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Frontend Development:</strong></td>
-      <td style="padding: 15px; text-align: left;">ReactJS, JavaScript, HTML, CSS, SASS, Tailwind CSS</td>
+      <td style="padding: 15px; text-align: left;">ReactJS, JavaScript, HTML, CSS, Tailwind CSS, SASS</td>
     </tr>
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Backend Development:</strong></td>
