@@ -46,6 +46,13 @@ Collaborative and innovative Software Developer. Expertise in the MERN stack and
 
 <div align="left" style="width: 85%; margin: 0 auto;">
   <ul style="list-style-type: none; padding-left: 0;">
+     <li style="padding: 15px 0; background: rgba(0, 204, 255, 0.1); backdrop-filter: blur(8px); border-radius: 8px; margin-bottom: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
+      <strong>NexClip:</strong> Your ultimate platform for watching and managing videos!
+            NexClip is designed to provide you with an exceptional experience
+            for watching, uploading, and managing videos. Whether you're a
+            content creator or a casual viewer, our platform makes everything
+            seamless and easy to use
+    </li>
     <li style="padding: 15px 0; background: rgba(0, 204, 255, 0.1); backdrop-filter: blur(8px); border-radius: 8px; margin-bottom: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
       <strong>Lieflog:</strong> Share your thoughts, inspire others, and connect with a community—where every word blooms 🍁
     </li>
