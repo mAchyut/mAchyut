@@ -12,7 +12,7 @@
 ### <span style="font-size: 1.8rem; font-weight: bold;">About Me</span>
 
 <p align="justify" style="background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(10px); padding: 25px; border-radius: 10px; box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.1); width: 85%; margin: 20px auto;">
-Collaborative and innovative Software Developer. Expertise in the MERN stack and proficient in React.js, JavaScript, Tailwind ⫶ ⫶ I thrive on creating solutions that prioritize both functionality and user engagement.
+Collaborative and innovative Software Developer with expertise in MERN stack, Next.js, and AWS. I thrive on creating web applications that combine powerful functionality with seamless user experiences.
 </p>
 
 ---
@@ -23,11 +23,15 @@ Collaborative and innovative Software Developer. Expertise in the MERN stack and
   <table style="width: 100%; border-collapse: collapse;">
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Frontend Development:</strong></td>
-      <td style="padding: 15px; text-align: left;">ReactJS, JavaScript, HTML, CSS, Tailwind CSS, SASS</td>
+      <td style="padding: 15px; text-align: left;">ReactJS, Next.js, JavaScript, HTML, CSS, Tailwind CSS, SASS</td>
     </tr>
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Backend Development:</strong></td>
       <td style="padding: 15px; text-align: left;">NodeJS, Express.js, MongoDB, Appwrite</td>
+    </tr>
+    <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
+      <td style="padding: 15px; text-align: left;"><strong>Cloud & DevOps:</strong></td>
+      <td style="padding: 15px; text-align: left;">AWS, Docker (basics)</td>
     </tr>
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Full-Stack Framework:</strong></td>
@@ -47,24 +51,19 @@ Collaborative and innovative Software Developer. Expertise in the MERN stack and
 <div align="left" style="width: 85%; margin: 0 auto;">
   <ul style="list-style-type: none; padding-left: 0;">
      <li style="padding: 15px 0; background: rgba(0, 204, 255, 0.1); backdrop-filter: blur(8px); border-radius: 8px; margin-bottom: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
-      <strong>NexClip:</strong> Your ultimate platform for watching and managing videos!
-            NexClip is designed to provide you with an exceptional experience
-            for watching, uploading, and managing videos. Whether you're a
-            content creator or a casual viewer, our platform makes everything
-            seamless and easy to use
+      <strong>NexClip:</strong> A platform for video streaming and management using Next.js, Node.js, MongoDB, and AWS for storage and deployment. Built to handle high-traffic, provide smooth video streaming, and an exceptional user experience.
     </li>
     <li style="padding: 15px 0; background: rgba(0, 204, 255, 0.1); backdrop-filter: blur(8px); border-radius: 8px; margin-bottom: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
-      <strong>Lieflog:</strong> Share your thoughts, inspire others, and connect with a community—where every word blooms 🍁
+      <strong>Lieflog:</strong> A social platform using Docker for containerized deployment and AWS for cloud hosting. This project emphasizes scalability and interaction within a community-focused environment.
     </li>
     <li style="padding: 15px 0; background: rgba(153, 51, 255, 0.1); backdrop-filter: blur(8px); border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
-      <strong>StoryFlicker:</strong> Simpler version of Lieflog.
+      <strong>StoryFlicker:</strong> A lightweight blogging application inspired by Lieflog, designed for quick setup with Docker and AWS.
     </li>
   </ul>
 </div>
 <p style="text-align: center;">Check out more in repositories</p>
 
 ---
-
 
 ### <span style="font-size: 1.8rem; font-weight: bold;">GitHub Stats & Contributions</span>
 
@@ -78,14 +77,10 @@ Collaborative and innovative Software Developer. Expertise in the MERN stack and
 
 ---
 
-
-
 ### <span style="font-size: 1.8rem; font-weight: bold;">Connect With Me</span>
-
 
 <div align="center" style="margin-top: 30px; width: 85%; margin: 0 auto;">
   <a href="https://www.linkedin.com/in/suryanshuraj" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 6px; border: none;"/>
   </a>
 </div>
-
