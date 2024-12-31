@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,aws,javascript,mongodb,expressjs,react,nodejs,redux,tailwindcss,html,css,scss,appwrite,figma,git,vercel,docker" alt="Skills" style="max-width: 75%; height: auto; filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.15));"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,aws,javascript,mongodb,redis,expressjs,react,nodejs,redux,tailwindcss,cloudflare,html,css,scss,postman,appwrite,figma,git,vercel,docker" alt="Skills" style="max-width: 75%; height: auto; filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.15));"/>
 </div>
 
 ---
