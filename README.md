@@ -12,7 +12,7 @@
 ### <span style="font-size: 1.8rem; font-weight: bold;">About Me</span>
 
 <p align="justify" style="background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(10px); padding: 25px; border-radius: 10px; box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.1); width: 85%; margin: 20px auto;">
-Collaborative and innovative Software Developer with expertise in MERN stack, Next.js, and AWS. I thrive on creating web applications that combine powerful functionality with seamless user experiences.
+Collaborative and innovative Software Developer with expertise in MERN stack, Next.js, AWS, redis and more. I thrive on creating web applications that combine powerful functionality with seamless user experiences.
 </p>
 
 ---
@@ -23,11 +23,11 @@ Collaborative and innovative Software Developer with expertise in MERN stack, Ne
   <table style="width: 100%; border-collapse: collapse;">
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Frontend Development:</strong></td>
-      <td style="padding: 15px; text-align: left;">ReactJS, Next.js, JavaScript, HTML, CSS, Tailwind CSS, SASS</td>
+      <td style="padding: 15px; text-align: left;">ReactJS, Next.js, JavaScript, HTML, CSS, Tailwind CSS, SASS/SCSS, UI Libraries</td>
     </tr>
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Backend Development:</strong></td>
-      <td style="padding: 15px; text-align: left;">NodeJS, Express.js, MongoDB, Appwrite</td>
+      <td style="padding: 15px; text-align: left;">Next/server, NodeJS, Express.js, MongoDB, Appwrite</td>
     </tr>
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Cloud & DevOps:</strong></td>
@@ -35,7 +35,7 @@ Collaborative and innovative Software Developer with expertise in MERN stack, Ne
     </tr>
     <tr style="border-bottom: 1px solid rgba(0, 0, 0, 0.1);">
       <td style="padding: 15px; text-align: left;"><strong>Full-Stack Framework:</strong></td>
-      <td style="padding: 15px; text-align: left;">MERN</td>
+      <td style="padding: 15px; text-align: left;">MERN, Next.js</td>
     </tr>
     <tr>
       <td style="padding: 15px; text-align: left;"><strong>Design Tools:</strong></td>
